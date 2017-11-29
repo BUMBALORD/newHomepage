@@ -15,7 +15,6 @@ class App extends Component {
         <p className="margTop"> Lead Instructor - UC Berkeley Extensions Coding Bootcamp </p>
         </header>
         <div className="mainContainer">
-
         </div>
       </div>
     );
